@@ -60,3 +60,6 @@ A Spotify-like music application developed using React Native. This project prov
 ### Performance and Security
 - Optimized data manipulation with **Lodash**.
 - Seamless cross-platform integration for iOS and Android.# spotify-clone-react-native
+
+
+![](https://github.com/Rasime-Dumlupunar/spotify-clone-react-native/blob/main/spotify%20clone.gif)
